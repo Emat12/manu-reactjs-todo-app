@@ -1,5 +1,5 @@
-## manu-reactjs-todo-app: REACT JS SIMPLE TODO APP Project for React Js Beginners in 2022
-
+## manu-reactjs-todo-app:A Simple React Js TODO App for React Js Beginners. 
+It is a quick to start React Js project for beginners. 
 
 ### Clone the starter project
 
