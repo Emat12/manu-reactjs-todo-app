@@ -1,4 +1,4 @@
-## manu-reactjs-todo-app:A Simple React Js TODO App for React Js Beginners. 
+## "manu-reactjs-todo-app": A Simple React Js TODO App for React Js Beginners. 
 It is a quick to start React Js project for beginners. 
 
 ### Clone the starter project
