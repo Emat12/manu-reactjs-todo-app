@@ -1,13 +1,12 @@
-## React Tutorial – The Beginners Guide to Learning React JS in 2020
+## manu-reactjs-todo-app: REACT JS SIMPLE TODO APP Project for React Js Beginners in 2022
 
-[To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
 ### Clone the starter project
 
 You can download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/react-todo-app
+git clone https://github.com/Emat12/manu-reactjs-todo-app/
 ```
 
 This will create a directory in the name of the project folder.
@@ -17,7 +16,7 @@ Once you have the project files and folders bootstrapped, open it with your text
 Next, switch inside the project directory and run:
 
 ```
-npm install
+yarn install
 ```
 
 This will install all the necessary dependencies in the local `node_modules` folder.
@@ -25,7 +24,7 @@ This will install all the necessary dependencies in the local `node_modules` fol
 Finally, start your development server by running:
 
 ```
-npm start
+yarn start
 ```
 
 You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
